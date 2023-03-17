@@ -11,3 +11,7 @@ Aktuell Software in der Entwicklung:
 - Deutschlandweite Anmeldung für Junior
 - Rescue Mapeditor (aktuell nur für Line)
 - Rescue Scoring System zur Auswertung von Rescue Line und Maze Läufen
+
+Contact/Kontakt: support@robocup.de or info@robocup.de
+
+Webseite: https://www.robocup.de
